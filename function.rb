@@ -1,1 +1,3 @@
 puts "hej"
+
+puts "ja"
